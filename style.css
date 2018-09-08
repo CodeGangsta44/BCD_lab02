@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+}
+td{
+  border: 2px solid #444444;
+}
+table{
+  margin: auto;
+  color: #444444;
+  border: 2px solid #444444;
+  border-collapse: collapse;;
+  table-layout: fixed;
+  height: 30%;
+  width: 70%;
+}
+p{
+  text-align: right;
+}
